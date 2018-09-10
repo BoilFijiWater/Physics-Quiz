@@ -1,4 +1,5 @@
- $("#p1").click(function(){
+$( document ).ready(function() {
+$("#p1").click(function(){
     $("#p2").toggle()
     $("#p3").toggle()
     $("#p4").toggle()
@@ -18,3 +19,4 @@
     $("#p14").toggle()
     $("#p15").toggle()
  })
+}
