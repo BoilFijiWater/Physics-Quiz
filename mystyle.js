@@ -9,7 +9,8 @@ $("#p1").click(function(){
     $("#p8").toggle()
     $("#answers").toggle()
 });
-
+}
+$( document ).ready(function() {                    
  $("#answers").click(function(){
     $("#p9").toggle()
     $("#p10").toggle()
