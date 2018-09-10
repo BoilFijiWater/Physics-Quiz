@@ -5,4 +5,5 @@
     $("#p5").show()
     $("#p6").show()
     $("#p7").show()
+    $("#answers").show()
 });
